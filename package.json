@@ -1,0 +1,24 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teteusAraujo/Ecoleta.git"
+  },
+  "author": "Mateus Araújo Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teteusAraujo/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/teteusAraujo/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  }
+}
